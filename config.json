@@ -1,0 +1,10 @@
+{
+    "file_paths": {
+        "paper_info": "D:\\BaiduSyncdisk\\个人开发的小工具\\data_analysis\\info_papers.xlsx",
+        "reference_info": "D:\\BaiduSyncdisk\\个人开发的小工具\\data_analysis\\CCF-Recommended International Academic Journals and Conferences.xlsx"
+    },
+    "sheet_names": {
+        "publication_category": "category",
+        "keywords": "keywords"
+    }
+} 
