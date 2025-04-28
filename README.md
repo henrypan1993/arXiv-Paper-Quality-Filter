@@ -179,4 +179,3 @@ CONFERENCE_MAPPINGS = {
 
 - Python 3.6+
 - pandas
-- openpyxl 
