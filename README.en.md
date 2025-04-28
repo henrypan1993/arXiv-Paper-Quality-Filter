@@ -46,14 +46,14 @@ The program uses a JSON format configuration file (`config.json`) to store file 
 ```json
 {
     "file_paths": {
-        "paper_info": "C:\\Users\\panhe\\Desktop\\论文信息.xlsx",
-        "reference_info": "C:\\Users\\panhe\\Desktop\\中国计算机学会推荐国际学术刊物&会议.xlsx"
+        "paper_info": "D:\\BaiduSyncdisk\\个人开发的小工具\\data_analysis\\info_papers.xlsx",
+        "reference_info": "D:\\BaiduSyncdisk\\个人开发的小工具\\data_analysis\\CCF-Recommended International Academic Journals and Conferences.xlsx"
     },
     "sheet_names": {
         "publication_category": "category",
-        "keywords": "keyword"
+        "keywords": "keywords"
     }
-}
+} 
 ```
 
 You can modify the paths and worksheet names in the configuration file according to your needs.
